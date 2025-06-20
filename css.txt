@@ -1,0 +1,39 @@
+<!-- <h1 class="myclass">my first css project</h1>
+<p class="myclass">this is a paragraph i have prepared for you. please enjoy it.</p>
+<button id="but">click me!</button> -->
+<!-- <div id="box"> 
+    this is a paragraph
+</div> -->
+<!-- <h1>what is your name?</h1> -->
+ <!-- <p id="one">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo, necessitatibus. Et, reiciendis explicabo, repudiandae amet hic sed fuga veritatis consequatur sequi dolores nesciunt veniam aliquid numquam, velit quisquam eaque! Quas.
+</p>
+<a href="//www.google.com">google</a>
+<p id="two">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo, necessitatibus. Et, reiciendis explicabo, repudiandae amet hic sed fuga veritatis consequatur sequi dolores nesciunt veniam aliquid numquam, velit quisquam eaque! Quas.
+</p> -->
+<!-- <h1>heading</h1>
+<div id="outer">
+    outer
+    <div id="inner">
+        inner
+    </div>
+</div> -->
+
+
+/* h1{color: red;}
+p{color: green;}
+body{background-color: blue;}
+button{color: brown; background-color: yellow;} */
+/* *{color: violet;} */
+/* #heading{color: aqua;}
+#paragraph{color: blue;}
+#but{color: aliceblue; background-color: black;} */
+/* .myclass{color: blueviolet;} */
+/* #box{color: blue;} */
+/* h1{text-align: center;text-decoration: blue dotted underline;}
+p{text-align: left;}
+a{text-decoration: none;}
+#one{font-family: Arial;}
+#two{font-family: cursive;} */
+/* h1{text-align: center; text-transform: capitalize;text-decoration:yellow dotted underline;font-family: cursive;font-weight: 100;font-size: 50px;line-height: 5px;} */
+/* #outer{font-size: 25px;}
+#inner{font-size: 10px;} */
